@@ -1,0 +1,31 @@
+.container-fluid {
+    border: 0px solid blue;
+
+
+}
+
+.bg-image {
+
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+
+}
+
+.he {
+
+    width: 100%;
+
+}
+
+.bg-red {
+    background-color: #f07878;
+}
+
+.bg-green {
+    background-color: #a1fca1;
+}
+.bg-orange {
+    background-color: rgb(238, 195, 117);
+}
+
